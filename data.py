@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # got the list from wikipedia
 most_visited_websites = {
     "google": "https://www.google.com",
@@ -234,4 +235,3 @@ installed_apps_and_programs_dict = {
     'windows media player legacy': 'start wmplayer:',
     'windows tools': 'start shell:appsfolder\\WindowsTools',
 }
-
