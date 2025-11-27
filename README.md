@@ -1,8 +1,3 @@
-Hello\! That is a fantastic project. Building a voice assistant is one of the best ways to tie together different concepts in Python, like API management, voice processing, and logic flow.
-
-As your teacher, I have prepared a clear, professional **README.md** file for you. A good README is like the "textbook" for your code—it teaches others (and your future self) how to install and use your software.
-
-Here is the file ready to copy-paste.
 
 -----
 
